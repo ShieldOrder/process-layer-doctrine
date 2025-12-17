@@ -1,38 +1,32 @@
-# Proposal Disclosure Schema
+ZCG Process Legibility Baseline v0.1
+Derived from the Process Layer Doctrine (PLD)
 
-A voluntary disclosure framework for reducing ambiguity in grant proposals.
+Preamble and Scope
 
-## What This Is
+Purpose
 
-A text-based disclosure template that helps applicants make their reasoning explicit before evaluation begins.
+This document describes how Zcash Community Grants (ZCG) decisions and grant execution typically operate in practice, and where discretion, verification, and implicit trust assumptions appear along that flow.
 
-It does not:
-- Evaluate proposals
-- Assign scores
-- Imply approval
-- Replace human judgment
+It is written to support continuity and legibility for future committee members, applicants seeking operational clarity, and observers who want a concrete map of decision and execution surfaces.
 
-It only structures where reasoning is disclosed, not what conclusions should be drawn.
+What this is
 
-## Status
+This document maps the end-to-end ZCG decision and execution process as it exists today. It separates governance mechanisms, process execution, and custody interfaces, and identifies where signals are objective, judgment-based, or implicit. It is intended as a continuity artifact to reduce institutional memory loss across committee turnover.
 
-v0.1 
+What this is not
 
-## Using the Template
+This document is not a governance proposal, mandate, scoring system, or evaluation of individuals, motives, or past decisions. It is not a security audit and does not assert the presence of defects or failures.
 
-See [template.md](./template.md) for the disclosure schema.
+Relationship to the Process Layer Doctrine
 
-Use of this template is optional.  
-Using it does not influence approval, rejection, or evaluation outcomes.
+The Process Layer Doctrine defines execution hygiene for governance systems by treating process as infrastructure. This baseline applies the PLD lens descriptively by decomposing the ZCG workflow into stages, separating discretion from verification at each stage, and making implicit assumptions visible without prescribing change.
 
-## Design Principles
+The PLD five tests (Impact, Clarity, Alignment, Deliverability, Verification) are referenced later strictly as an observational overlay.
 
-- Voluntary, not mandatory
-- Text-first, not automated
-- Discloses reasoning, does not judge it
-- Preserves evaluator discretion
-- Makes ambiguity visible without penalizing it
+Neutrality and non-prescriptive stance
 
----
+This document is mechanism-neutral. It is intended to remain applicable under committee-based discretion, ZCAP-style processes, and hybrid or future governance mechanisms. Its objective is legibility, not redesign.
 
-**License:** CC0 — use, modify, fork, or ignore freely
+Versioning and change control
+
+Version 0.1 is intentionally limited to descriptive mapping. Any future versions that introduce recommendations must be explicitly labeled as non-binding and maintained separately from the baseline.
