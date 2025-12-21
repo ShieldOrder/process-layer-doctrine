@@ -1,251 +1,94 @@
-03. Discretion vs Verification Map
-Purpose
+# 03-Discretion-vs-Verification-Map
+# ZCG Process Legibility Baseline v0.1
+# Derived from the Process Layer Doctrine (PLD)
 
-This section maps where discretion is exercised and where verification exists across the ZCG decision and execution flow described in Section 2.
+## Purpose
 
-The goal is not to evaluate whether discretion is appropriate or whether verification is sufficient, but to make visible:
+This section maps where discretion and verification appear across the Zcash Community Grants process, and where implicit trust assumptions are commonly relied upon.
 
-where human judgment is structurally required
+The intent is to make these surfaces visible, not to evaluate their adequacy or recommend changes.
 
-where objective checks are available
+## Conceptual Distinction
 
-where trust assumptions are implicit
+For the purposes of this document:
 
-where ambiguity is a deliberate design choice versus an incidental one
+Discretion refers to decisions made through human judgment where outcomes cannot be fully specified or verified in advance.
 
-This section is observational only.
+Verification refers to the ability to confirm whether a stated condition or outcome has been met using observable evidence.
 
-Method
+Both are necessary.
+PLD does not seek to eliminate discretion.
+It seeks to make the boundary between discretion and verification explicit.
 
-For each stage of the end-to-end flow, we identify:
+## Discretion Dominant Surfaces
 
-Discretion surface
-Areas where outcomes depend on human judgment, interpretation, or contextual assessment.
+The following stages rely primarily on human judgment:
 
-Verification surface
-Areas where outcomes can be checked against objective artifacts, records, or observable facts.
+- Proposal merit assessment
+- Assessment of ecosystem relevance
+- Weighing of tradeoffs between competing proposals
+- Interpretation of ambiguous or underspecified claims
+- Decisions under uncertainty or incomplete information
 
-Implicit trust assumptions
-Expectations placed on actors or processes that are not formally verified.
+At these surfaces:
+- Reasoning may be implicit
+- Outcomes may not be reproducible
+- Different reviewers may reach different conclusions
 
-Ambiguity type
-Whether ambiguity is structural (by design) or incidental (by implementation or documentation).
+This discretion is intentional and inherent to the governance model.
 
-Stage-by-Stage Map
-1. Proposal Intake
+## Verification Dominant Surfaces
 
-Discretion
+The following stages are amenable to verification:
 
-Determining whether a submission is “in scope”
+- Confirmation that milestones were delivered
+- Validation of publicly observable artifacts
+- Checking scope conformance against approved terms
+- Verification of timelines and deliverable existence
 
-Interpreting intent when proposals do not fit templates cleanly
+Verification typically relies on:
+- Repositories or published outputs
+- Milestone reports
+- Demonstrable functionality or documentation
+- Third party inspection
 
-Handling incomplete or unconventional submissions
+Verification quality varies based on how milestones are specified.
 
-Verification
+## Mixed Surfaces
 
-Presence of required fields or materials
+Several stages combine discretion and verification:
 
-Timestamped submission records
+- Milestone definition at approval time
+- Assessment of partial completion
+- Evaluation of impact claims after delivery
 
-Public availability of proposal text
+In these cases:
+- Verification may confirm outputs
+- Discretion may be required to interpret significance or sufficiency
 
-Implicit Trust
+The boundary between the two is often informal.
 
-Applicants accurately represent their intentions
+## Implicit Trust Assumptions
 
-Submitted materials reflect actual planned work
+Across the process, trust is commonly assumed in areas such as:
+- Accuracy of applicant self reporting
+- Good faith execution after funding
+- Completeness of provided updates
+- Alignment between stated and actual scope
 
-Ambiguity
+These assumptions are rarely documented explicitly.
 
-Structural: scope boundaries are intentionally broad
+## PLD Interpretation
 
-Incidental: variance in proposal clarity and formatting
+From a PLD perspective:
+- Discretion should be named and owned
+- Verification should be specified where feasible
+- Implicit trust should be made visible when it substitutes for verification
 
-2. Evaluation and Review
+This document does not prescribe where discretion should be reduced or verification increased.
 
-Discretion
+## Status
 
-Assessing merit, relevance, and potential impact
-
-Weighting tradeoffs between competing priorities
-
-Interpreting feasibility and risk narratives
-
-Verification
-
-Public discussion threads
-
-Referenced prior work, code, or deployments
-
-Historical performance where applicable
-
-Implicit Trust
-
-Reviewers apply criteria consistently
-
-Claims made by applicants are materially accurate
-
-Ambiguity
-
-Structural: qualitative assessment is unavoidable
-
-Incidental: uneven depth of reviewer commentary
-
-3. Deliberation
-
-Discretion
-
-Internal judgment calls during committee discussion
-
-Resolution of disagreement among reviewers
-
-Final synthesis of divergent views
-
-Verification
-
-Recorded votes or decisions where published
-
-Public statements summarizing outcomes
-
-Implicit Trust
-
-Deliberation reflects good-faith reasoning
-
-Internal discussions are conducted responsibly
-
-Ambiguity
-
-Structural: deliberation is not fully observable
-
-Structural: confidentiality may be required
-
-4. Approval and Conditions
-
-Discretion
-
-Deciding whether to approve, reject, or request changes
-
-Defining conditional milestones or reporting expectations
-
-Interpreting what constitutes acceptable progress
-
-Verification
-
-Published approval decisions
-
-Documented conditions or milestones
-
-Funding amounts and schedules
-
-Implicit Trust
-
-Conditions are framed clearly and interpreted consistently
-
-Applicants understand expectations as intended
-
-Ambiguity
-
-Structural: conditions are context-dependent
-
-Incidental: variable specificity in condition wording
-
-5. Disbursement Mechanics
-
-Discretion
-
-Timing decisions when dependencies or delays arise
-
-Handling edge cases or exceptional circumstances
-
-Verification
-
-On-chain transactions
-
-Public disbursement records
-
-Custodial attestations where applicable
-
-Implicit Trust
-
-Custodial entities execute transfers correctly
-
-Funds reach intended recipients
-
-Ambiguity
-
-Structural: custody is external to committee control
-
-Incidental: visibility varies by custodian
-
-6. Ongoing Monitoring and Reporting
-
-Discretion
-
-Assessing whether reported progress is satisfactory
-
-Deciding when intervention or follow-up is necessary
-
-Verification
-
-Progress reports
-
-Public updates, code commits, or delivered artifacts
-
-Community feedback
-
-Implicit Trust
-
-Reports are truthful and complete
-
-Absence of reports does not imply misconduct
-
-Ambiguity
-
-Structural: not all work is externally verifiable
-
-Incidental: inconsistent reporting cadence
-
-7. Completion, Renewal, or Termination
-
-Discretion
-
-Determining whether objectives have been met
-
-Evaluating renewal requests
-
-Deciding when termination is appropriate
-
-Verification
-
-Delivered outputs
-
-Final reports
-
-Historical record of execution
-
-Implicit Trust
-
-Delivered artifacts correspond to funded scope
-
-Past performance is weighed appropriately
-
-Ambiguity
-
-Structural: success criteria are context-sensitive
-
-Structural: long-term impact may be unknowable at decision time
-
-Observational Summary
-
-Across the ZCG process:
-
-Discretion is concentrated in evaluation, deliberation, and interpretation of progress.
-
-Verification is strongest at intake, disbursement, and artifact delivery.
-
-Trust assumptions are unavoidable where privacy, autonomy, or qualitative judgment are involved.
-
-Most ambiguity is structural, reflecting deliberate design choices rather than process failure.
-
-No conclusions are drawn here regarding optimization or reform. This map exists solely to make the current landscape legible.
+Descriptive baseline.
+No prescriptions.
+No authority claims.
