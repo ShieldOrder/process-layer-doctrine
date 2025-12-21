@@ -1,20 +1,22 @@
-# 02. End-to-End Decision Flow (As Implemented)
+# 02-End-to-End-Decision-Flow
+# ZCG Process Legibility Baseline v0.1
+# Derived from the Process Layer Doctrine (PLD)
+
+## Purpose
 
 This section describes, at a high level, how Zcash Community Grants (ZCG) decisions and grant execution typically flow in practice today.
 
-The intent is descriptive only.  
+The intent is descriptive only.
 No stage is evaluated, optimized, or judged.
 
-The flow below represents a composite of documented process, public discussion, and observed practice across multiple grant cycles.
-
----
+The flow represents a composite derived from documented process, public discussion, and observed practice across multiple grant cycles.
 
 ## 2.1 Proposal Intake
 
 Grant proposals are submitted by applicants through publicly visible channels defined by ZCG at the time of submission.
 
 Typical characteristics:
-- Proposals are applicant-authored and self-scoped
+- Proposals are applicant authored and self scoped
 - Content format varies by applicant maturity and grant type
 - Initial completeness and clarity vary widely
 
@@ -22,8 +24,6 @@ At this stage:
 - No verification is performed
 - No commitments are implied
 - Ambiguity is common and expected
-
----
 
 ## 2.2 Evaluation and Review
 
@@ -42,8 +42,6 @@ Evaluation inputs may include:
 
 The structure and depth of review are not uniform across proposals.
 
----
-
 ## 2.3 Deliberation
 
 Following review, committee members deliberate to form a decision.
@@ -58,8 +56,6 @@ At this stage:
 - Judgment plays a central role
 
 Deliberation outcomes may include approval, rejection, or conditional approval.
-
----
 
 ## 2.4 Approval and Conditions
 
@@ -77,20 +73,16 @@ Conditions are typically:
 
 The specificity of conditions varies by proposal and committee judgment.
 
----
-
 ## 2.5 Disbursement Mechanics
 
 Once approved, grant funds are disbursed according to the agreed structure.
 
 Observed characteristics:
-- Disbursement may be lump-sum or milestone-based
+- Disbursement may be lump sum or milestone based
 - Timing is influenced by operational and custodial processes
 - ZCG interfaces with custodial entities for fund movement
 
 Committee involvement at this stage is bounded by role and charter.
-
----
 
 ## 2.6 Ongoing Monitoring and Reporting
 
@@ -100,11 +92,9 @@ During grant execution:
 - Reporting formats and depth are not uniform
 
 Monitoring is largely:
-- Read-only
-- Based on applicant-provided information
+- Read only
+- Based on applicant provided information
 - Contextualized by committee judgment
-
----
 
 ## 2.7 Completion, Renewal, or Termination
 
@@ -120,8 +110,6 @@ Completion assessment may consider:
 
 Formal closure mechanisms vary.
 
----
-
 ## 2.8 Flow Summary
 
 Across all stages:
@@ -130,3 +118,9 @@ Across all stages:
 - Trust assumptions are present but often implicit
 
 These characteristics are explored further in subsequent sections.
+
+## Status
+
+Descriptive baseline.
+No prescriptions.
+No authority claims.
