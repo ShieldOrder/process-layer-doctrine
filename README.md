@@ -53,7 +53,17 @@ Institutions, reviewers, and applicants may adopt or reference PLD artifacts wit
 
 ## Status
 
-Canonical doctrine and descriptive applications.
-No prescriptions in v0.1.
+v0.1
+
+This repository contains the canonical Process Layer Doctrine and descriptive applications.
+No authority, mandates, or prescriptions are asserted.
 
 License: CC0
+
+## Related Work
+
+The [Proposal Disclosure Schema](https://github.com/ShieldOrder/proposal-disclosure-schema) is a complementary, voluntary template for applicants.
+
+Together:
+- PLD provides evaluator and system side process hygiene
+- PDS provides applicant side clarity through structured disclosure
