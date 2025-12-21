@@ -1,29 +1,59 @@
+# README.md
+
 # Process Layer Doctrine
 
 Canonical home for the Process Layer Doctrine (PLD) and its descriptive applications.
 
-## What This Is
-The Process Layer Doctrine defines execution hygiene for governance systems.
-It is mechanism-neutral and non-prescriptive.
+## Purpose
 
-It focuses on:
-- Legibility of decision flow
-- Separation between governance, execution, and custody
-- Verifiability over narrative
-- Continuity across institutional turnover
+PLD defines execution hygiene for governance and funding systems.
+It is mechanism neutral, non prescriptive, and portable across institutions.
 
-## What This Is Not
-- Not a governance mechanism
-- Not an audit framework
-- Not an enforcement system
-- Not a scoring or ranking tool
+PLD exists to make decision processes legible, verifiable, and durable under personnel and governance turnover.
 
-## Structure
-- `doctrine/` — Core PLD concepts and tests
-- `applications/` — Descriptive baselines derived from PLD
-- `references/` — Source material and lineage
+## Core Principles
+
+PLD prioritizes:
+- Clear system boundaries and role separation
+- End to end decision flow visibility
+- Explicit distinction between discretion and verification
+- Artifact based reasoning over narrative claims
+- Continuity independent of elected or appointed actors
+
+## What PLD Is Not
+
+PLD is not:
+- A governance mechanism
+- A scoring or ranking framework
+- An audit or enforcement system
+- A source of authority or representation
+- A replacement for human judgment
+
+## Repository Structure
+
+doctrine/
+Authoritative normative definitions of PLD concepts and tests.
+This is the canonical anchor.
+
+applications/
+Context specific, descriptive mappings derived from PLD.
+No prescriptions or authority claims live here.
+
+references/
+Lineage, source material, and historical context.
+
+## Usage Model
+
+PLD is designed to be:
+- Read independently of any single ecosystem
+- Applied descriptively before prescriptively
+- Used to surface ambiguity, not to resolve it by fiat
+
+Institutions, reviewers, and applicants may adopt or reference PLD artifacts without coordination or permission.
 
 ## Status
-Canonical. Descriptive-first. No prescriptions in v0.1.
+
+Canonical doctrine and descriptive applications.
+No prescriptions in v0.1.
 
 License: CC0
