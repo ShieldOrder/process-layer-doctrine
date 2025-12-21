@@ -1,87 +1,107 @@
+# 01-System-Boundary-and-Roles
 # ZCG Process Legibility Baseline v0.1
+# Derived from the Process Layer Doctrine (PLD)
 
-Derived from the Process Layer Doctrine (PLD)
-1. System Boundary and Roles
+## Purpose
 
-This section describes the institutional boundaries within which Zcash Community Grants (ZCG) operates today, and the roles different actors play across the lifecycle of grant decisions and execution.
+This section describes the primary roles involved in the Zcash Community Grants process and the boundaries between governance, execution, custody, and verification.
 
-It is descriptive, not evaluative.
+The objective is to make responsibility, discretion, and authority surfaces explicit so that process behavior can be understood without relying on informal knowledge.
 
-1.1 What ZCG Is Chartered to Do
+## Role Categories
 
-ZCG is chartered to:
+For legibility, roles are grouped by function rather than by individual or title.
 
-Solicit and review grant proposals aligned with Zcash ecosystem goals.
+The categories below describe typical functions as they operate in practice. They do not evaluate performance or intent.
 
-Make funding decisions within the scope and authority delegated to it.
+## Applicants
 
-Authorize disbursement of funds according to approved proposals and stated conditions.
+Applicants are individuals or teams submitting proposals for funding.
 
-Monitor grant progress through reporting and check-ins as defined by the committee.
+Typical characteristics:
+- Define scope, milestones, and requested funding
+- Provide narrative, technical, and budget information
+- Respond to clarification requests during evaluation
+- Execute approved work after funding
 
-Decide on continuation, modification, or termination of funding within its mandate.
+Applicants do not control funding decisions or fund custody.
 
-These activities are exercised collectively by the committee under publicly visible processes and documented decisions.
+## Reviewers and Committee Members
 
-1.2 What ZCG Is Explicitly Not
+Reviewers and committee members are responsible for proposal evaluation and funding decisions.
 
-ZCG is not chartered to:
+Typical characteristics:
+- Assess proposals using judgment and available information
+- Request clarification or revisions from applicants
+- Deliberate and vote according to the active governance mechanism
+- Approve, reject, or defer proposals
 
-Define protocol consensus rules or network upgrades.
+Reviewer judgment is discretionary by design.
+Evaluation artifacts may or may not be standardized depending on the cycle.
 
-Override ZIPs, governance charters, or higher-level authority structures.
+## Governance Mechanism
 
-Operate as a custodial entity for funds beyond its delegated interface.
+The governance mechanism defines how authority is exercised.
 
-Enforce outcomes beyond the conditions attached to grant agreements.
+In ZCG, this typically includes:
+- Committee based discretion
+- Defined voting or approval thresholds
+- Term limits and periodic turnover
 
-Act as a regulator, auditor, or guarantor of grantee success.
+The governance mechanism determines who decides, not how decisions are documented or verified.
 
-ZCG’s role ends at decision-making, authorization, and bounded oversight, not control of implementation outcomes.
+## Custodian and Fund Administrator
 
-1.3 Committee Role Versus Community Role
+Custodians and fund administrators are responsible for holding and disbursing funds.
 
-The committee:
+Typical characteristics:
+- Hold funds on behalf of the program
+- Execute disbursements after approval
+- Apply operational or legal constraints as required
+- Do not evaluate proposal merit
 
-Exercises discretion in proposal evaluation and prioritization.
+Custody is operational, not discretionary with respect to proposal selection.
 
-Interprets alignment within its mandate and available information.
+## Verification and Oversight Functions
 
-Applies judgment where verification is incomplete or impractical.
+Verification functions check whether approved work has been delivered as specified.
 
-The broader community:
+In practice, verification may be performed by:
+- Committee members
+- Designated reviewers
+- External parties
+- Public observers through artifact review
 
-Proposes work and ideas.
+Verification rigor varies and may rely on:
+- Milestone reports
+- Public repositories
+- Deliverable artifacts
+- Attestations
 
-Observes, critiques, and discusses decisions in public forums.
+Verification is often partially implicit.
 
-Provides social accountability through visibility and discourse rather than enforcement power.
+## Boundary Observations
 
-These roles are intentionally distinct. Community input informs but does not substitute for committee discretion.
+Key boundaries in the ZCG process include:
+- Applicants do not decide funding outcomes
+- Reviewers do not custody funds
+- Custodians do not evaluate merit
+- Verification roles may overlap with reviewers unless explicitly separated
 
-1.4 Separation of Governance, Execution, and Custody
+When roles overlap, the overlap is typically informal rather than formally declared.
 
-ZCG operates within a layered structure:
+## PLD Interpretation
 
-Governance: The rules, charters, ZIPs, and processes that define authority and constraints.
+From a PLD perspective:
+- Boundary clarity reduces ambiguity and hindsight reinterpretation
+- Overlapping roles are not prohibited but should be visible
+- Undeclared coupling between decision, execution, and verification increases process risk
 
-Execution: The activities performed by grantees to deliver approved work.
+This section does not recommend changes.
+It establishes a shared map of role boundaries as they are commonly understood.
 
-Custody: The entities and mechanisms responsible for holding and disbursing funds.
+## Status
 
-ZCG sits at the intersection of governance and execution authorization.
-It does not directly execute funded work and does not directly custody funds.
-
-This separation is intentional. It reduces concentration of power, limits single-point responsibility, and preserves flexibility across institutional changes.
-
-1.5 Boundary Implications
-
-Because these boundaries exist:
-
-Some decisions necessarily rely on discretion rather than verification.
-
-Some risks are managed socially rather than technically.
-
-Some outcomes cannot be guaranteed, only evaluated and monitored.
-
-These are not defects. They are properties of the system as designed.
+Descriptive baseline.
+No prescriptions.
+No authority claims.
