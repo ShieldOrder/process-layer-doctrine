@@ -35,7 +35,7 @@ A decision must be traceable from intake to resolution using observable artifact
 Missing steps are treated as risk, not as discretion.
 
 3. Discretion Is Explicit  
-Human judgment is allowed only where verification is impossible or inefficient.  
+Human judgment is exercized where verification is impossible or inefficient.  
 Discretion must be named, bounded, and owned.
 
 4. Verification Is Preferred  
