@@ -1,3 +1,4 @@
+cat > applications/zcg/01-System-Boundary-and-Roles.md <<'EOF'
 # 01-System-Boundary-and-Roles
 # ZCG Process Legibility Baseline v0.1
 # Derived from the Process Layer Doctrine (PLD)
@@ -36,7 +37,7 @@ Typical characteristics:
 - Deliberate and vote according to the active governance mechanism
 - Approve, reject, or defer proposals
 
-Reviewer judgment is discretionary by design.
+Reviewer judgment is discretionary by design.  
 Evaluation artifacts may or may not be standardized depending on the cycle.
 
 ## Governance Mechanism
@@ -97,11 +98,12 @@ From a PLD perspective:
 - Overlapping roles are not prohibited but should be visible
 - Undeclared coupling between decision, execution, and verification increases process risk
 
-This section does not recommend changes.
+This section does not recommend changes.  
 It establishes a shared map of role boundaries as they are commonly understood.
 
 ## Status
 
-Descriptive baseline.
-No prescriptions.
+Descriptive baseline.  
+No prescriptions.  
 No authority claims.
+EOF
