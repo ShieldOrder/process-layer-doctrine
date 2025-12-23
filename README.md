@@ -10,7 +10,7 @@ PLD exists to make decision processes legible, verifiable, and durable under per
 
 This framework provides reference definitions and process distinctions as used within PLD.  It does not claim consensus, endorsement, or authority beyond its own internal coherence.
 
-## Core Principles
+## Core Invariants
 
 PLD prioritizes:
 
