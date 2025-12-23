@@ -4,13 +4,13 @@ Reference framework for the Process Layer Doctrine (PLD) and its descriptive app
 
 ## Purpose
 
-PLD defines a set of execution hygiene invariants for governance and funding systems.  It is mechanism neutral, non-prescriptive, and portable across institutions.
+PLD defines a set of execution hygiene concepts for governance and funding systems. It is mechanism neutral, non-prescriptive, and portable across institutions.
 
 PLD exists to make decision processes legible, verifiable, and durable under personnel and governance turnover.
 
-This framework provides reference definitions and process distinctions as used within PLD.  It does not claim consensus, endorsement, or authority beyond its own internal coherence.
+This repository provides reference definitions and process distinctions as used within PLD. It does not claim consensus, endorsement, or authority beyond its own internal coherence.
 
-## Core Invariants
+## Core Principles
 
 PLD prioritizes:
 
@@ -32,14 +32,14 @@ PLD is not:
 
 ## Repository Structure
 
-- doctrine/
-  - Reference definitions and core concepts used within the PLD framework. These definitions are internal to this framework and are not mandates.
+- doctrine/  
+  Reference definitions and framework-internal invariants used by PLD. These definitions are descriptive and are not mandates.
 
-- applications/
-  - Context-specific, descriptive mappings derived from PLD concepts. These materials illustrate possible applications and do not carry prescriptive or authoritative force.
+- applications/  
+  Context-specific, descriptive mappings derived from PLD concepts. These materials illustrate how PLD may be applied and do not carry prescriptive or authoritative force.
 
-- references/
-  - Lineage, source material, and historical context informing the framework.
+- references/  
+  Lineage, source material, and historical context informing the framework. These inputs are non-normative.
 
 ## Usage Model
 
@@ -51,16 +51,20 @@ PLD is designed to be:
 
 Institutions, reviewers, and applicants may adopt or reference PLD artifacts without coordination, permission, or endorsement.
 
+Interpretations of PLD may differ across institutions and observers. PLD does not provide a dispute resolution mechanism for interpretive disagreement.
+
 ## Scope and Evolution
 
-This framework is intentionally non-authoritative and non-binding.  Governance processes are expected to evolve across communities and over time.  The distinctions and definitions here are descriptive tools, not mandates, and may be adapted, ignored, or replaced without invalidating the framework's internal logic.
-Interpretations of PLD may differ across institutions and observers.  PLD does not provide a dispute resolution mechanism for interpretive disagreement.
+This framework is intentionally non-authoritative and non-binding. Governance processes are expected to evolve across communities and over time.
+
+The distinctions and definitions here are descriptive tools, not mandates, and may be adapted, ignored, or replaced without invalidating the framework’s internal logic.
 
 ## Status
 
-v0.1
+v0.1.1
 
-This repository contains a reference formulation of the Process Layer Doctrine and its descriptive applications.  Minor releases may clarify language or framing without changing core invariants.
+This repository contains a reference formulation of the Process Layer Doctrine and its descriptive applications.  
+Minor releases may clarify language or framing without changing core invariant meaning.
 
 ## License
 
@@ -72,6 +76,5 @@ The Proposal Disclosure Schema is a complementary, voluntary template for applic
 
 Together:
 
-- PLD provides evaluator and system side process hygiene
-- PDS provides applicant side clarity through structured disclosure
-EOF
+- PLD provides evaluator and system-side process hygiene
+- PDS provides applicant-side clarity through structured disclosure
