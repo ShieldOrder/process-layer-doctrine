@@ -2,14 +2,15 @@
 
 ## Reference Statement
 
-The Process Layer Doctrine defines a neutral process layer that sits between governance intent and execution outcomes.
+The Process Layer Doctrine (PLD) defines a neutral process layer that sits between governance intent and execution outcomes.
 
-It does not decide what should be funded or governed.  
+PLD does not decide what should be funded or governed.
 It defines how decisions are made legible, verifiable, and inspectable.
 
 PLD treats process as infrastructure.
 
-This document provides reference definitions and invariants as used within this framework. It does not claim consensus, endorsement, or authority beyond its own internal coherence.
+This document provides reference definitions and invariants used within this framework.
+It does not claim consensus, endorsement, or authority beyond its own internal coherence.
 
 ## Scope
 
@@ -20,7 +21,7 @@ PLD applies to systems where:
 - Decisions must survive institutional turnover
 - Accountability depends on artifacts rather than trust
 
-PLD does not assume good faith or bad faith.  
+PLD does not assume good faith or bad faith.
 It assumes complexity.
 
 ## Core Invariants
@@ -68,7 +69,7 @@ Artifacts do not include:
 - Informal understandings or implied agreements
 - Retroactive narratives unsupported by contemporaneous artifacts
 
-Verbal context does not substitute for artifacts.  
+Verbal context does not substitute for artifacts.
 Artifacts may reference discussion, but discussion may not replace artifacts.
 
 ## Separation of Layers
@@ -84,13 +85,13 @@ Delivers work under agreed terms.
 Custody and Verification  
 Holds funds and verifies outcomes.
 
-PLD does not collapse these layers.  
+PLD does not collapse these layers.
 It documents their interfaces.
 
 ## Neutrality and Non-Authority
 
-PLD claims no authority.  
-It confers no legitimacy.  
+PLD claims no authority.
+It confers no legitimacy.
 It enforces no outcomes.
 
 Its function is to reduce ambiguity so that authority can be exercised with clearer sightlines.
@@ -119,7 +120,7 @@ Deprecated versions remain accessible for historical analysis.
 
 ## Reference Rule
 
-Core definitions live only in this document within the context of this framework.  
+Core definitions live only in this document within the context of this framework.
 All applications are descriptive mappings derived from these definitions.
 
 If an application conflicts with this framework, the conflict should be made explicit rather than resolved implicitly.
@@ -130,6 +131,8 @@ Applications of PLD represent one possible interpretation of the doctrine.
 
 Different observers or institutions may interpret PLD differently based on context, constraints, or governance norms.
 
-When interpretations conflict, PLD does not provide a resolution mechanism. Institutions and communities retain full discretion to interpret or disregard PLD as they see fit.
+When interpretations conflict, PLD does not provide a resolution mechanism.
+Institutions and communities retain full discretion to interpret or disregard PLD as they see fit.
 
 Forks and adaptations of PLD are permitted under CC0 but must use distinct names to avoid confusion.
+EOF
