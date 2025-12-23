@@ -1,10 +1,11 @@
+cat > doctrine/PLD.md <<'EOF'
 # Process Layer Doctrine
 
 ## Reference Statement
 
 The Process Layer Doctrine defines a neutral process layer that sits between governance intent and execution outcomes.
 
-It does not decide what should be funded or governed.
+It does not decide what should be funded or governed.  
 It defines how decisions are made legible, verifiable, and inspectable.
 
 PLD treats process as infrastructure.
@@ -19,7 +20,7 @@ PLD applies to systems where:
 - Decisions must survive institutional turnover
 - Accountability depends on artifacts rather than trust
 
-PLD does not assume good faith or bad faith.
+PLD does not assume good faith or bad faith.  
 It assumes complexity.
 
 ## Core Invariants
@@ -30,7 +31,7 @@ Within this framework, PLD specifies the following invariants:
 Roles, authority, and custody must be explicitly separated.  
 No actor may evaluate, execute, and verify the same work without disclosure.
 
-2. End to End Legibility  
+2. End-to-End Legibility  
 A decision must be traceable from intake to resolution using observable artifacts.  
 Missing steps are treated as risk, not as discretion.
 
@@ -48,7 +49,7 @@ Knowledge that only lives in people is considered fragile.
 
 ## Artifact Discipline
 
-PLD treats artifacts as first class objects.
+PLD treats artifacts as first-class objects.
 
 Artifacts include:
 - Proposals
@@ -76,7 +77,7 @@ Holds funds and verifies outcomes.
 PLD does not collapse these layers.  
 It documents their interfaces.
 
-## Neutrality and Non Authority
+## Neutrality and Non-Authority
 
 PLD claims no authority.  
 It confers no legitimacy.  
@@ -95,8 +96,8 @@ PLD is designed to surface, not eliminate:
 
 ## Reference Rule
 
-Normative definitions live only in this document within the context of this framework.  
+Core definitions live only in this document within the context of this framework.  
 All applications are descriptive mappings derived from these definitions.
 
-If an application conflicts with this doctrine, the conflict should be made explicit rather than resolved implicitly.
+If an application conflicts with this framework, the conflict should be made explicit rather than resolved implicitly.
 EOF
