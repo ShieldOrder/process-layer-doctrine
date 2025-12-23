@@ -65,6 +65,7 @@ If an application conflicts with the PLD framework, the conflict should be made 
 Descriptive baseline.  
 No prescriptions.  
 Subject to revision as public artifacts change.
+Baseline handling is defined in BASELINE.md.
 
 ## License
 
