@@ -1,12 +1,10 @@
-# applications/zcg/README.md
-
 # PLD Application: Zcash Community Grants
 
 ## Purpose
 
 This directory contains descriptive applications of the Process Layer Doctrine (PLD) to the Zcash Community Grants program.
 
-These documents do not propose reforms, mandates, or enforcement.
+These documents do not propose reforms, mandates, or enforcement.  
 They exist to make the current ZCG process legible, inspectable, and comparable over time.
 
 ## Scope
@@ -17,7 +15,7 @@ The ZCG application focuses on:
 - Explicit separation between discretion and verification
 - Identification of process ambiguity and risk surfaces
 
-The application does not evaluate individual people or outcomes.
+The application does not evaluate individual people or outcomes.  
 It evaluates interfaces and artifacts.
 
 ## Non Authority Statement
@@ -28,7 +26,7 @@ These documents:
 - Do not prescribe how ZCG should operate
 - Do not assert compliance requirements
 
-They are independent, descriptive mappings derived from PLD.
+They are independent, descriptive mappings derived from the PLD framework.
 
 ## Intended Use
 
@@ -38,7 +36,7 @@ These materials may be used by:
 - Observers analyzing process coherence
 - Future committees comparing continuity across terms
 
-Use is opt in.
+Use is opt in.  
 No coordination or permission is required.
 
 ## Document Index
@@ -55,17 +53,20 @@ Identifies where human judgment is exercised versus where verification is possib
 ZCG-Process-Legibility-Baseline-v0.1.md  
 A consolidated snapshot of current process legibility derived from the above mappings.
 
-## Canonical Relationship
+## Relationship to PLD
 
-PLD doctrine is defined in doctrine/PLD.md.
+PLD doctrine is defined in doctrine/PLD.md.  
 This directory contains descriptive applications only.
 
-If any application conflicts with the doctrine, the doctrine prevails.
+If an application conflicts with the PLD framework, the conflict should be made explicit rather than resolved implicitly.
 
 ## Status
 
-Descriptive baseline.
-No prescriptions.
+Descriptive baseline.  
+No prescriptions.  
 Subject to revision as public artifacts change.
 
-License: CC0
+## License
+
+CC0
+EOF
