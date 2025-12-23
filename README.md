@@ -1,10 +1,11 @@
+cat > README.md <<'EOF'
 # Process Layer Doctrine
 
 Reference home for the Process Layer Doctrine (PLD) and its descriptive applications.
 
 ## Purpose
 
-PLD defines execution hygiene for governance and funding systems. It is mechanism neutral, non prescriptive, and portable across institutions.
+PLD defines a set of execution hygiene principles for governance and funding systems. It is mechanism neutral, non-prescriptive, and portable across institutions.
 
 PLD exists to make decision processes legible, verifiable, and durable under personnel and governance turnover.
 
@@ -15,9 +16,9 @@ This framework provides reference definitions and process distinctions as used w
 PLD prioritizes:
 
 - Clear system boundaries and role separation
-- End to end decision flow visibility
+- End-to-end decision flow visibility
 - Explicit distinction between discretion and verification
-- Artifact based reasoning over narrative claims
+- Artifact-based reasoning over narrative claims
 - Continuity independent of elected or appointed actors
 
 ## What PLD Is Not
@@ -33,10 +34,10 @@ PLD is not:
 ## Repository Structure
 
 - doctrine/
-  - Reference definitions and normative concepts used within the PLD framework. These definitions are internal to this framework and are not mandates.
+  - Reference definitions and core concepts used within the PLD framework. These definitions are internal to this framework and are not mandates.
 
 - applications/
-  - Context specific, descriptive mappings derived from PLD concepts. These materials illustrate possible applications and do not carry prescriptive or authoritative force.
+  - Context-specific, descriptive mappings derived from PLD concepts. These materials illustrate possible applications and do not carry prescriptive or authoritative force.
 
 - references/
   - Lineage, source material, and historical context informing the framework.
@@ -53,7 +54,7 @@ Institutions, reviewers, and applicants may adopt or reference PLD artifacts wit
 
 ## Scope and Evolution
 
-This framework is intentionally non authoritative and non binding. Governance processes are expected to evolve across communities and over time. The distinctions and definitions here are descriptive tools, not mandates, and may be adapted, ignored, or replaced without invalidating the framework's internal logic.
+This framework is intentionally non-authoritative and non-binding. Governance processes are expected to evolve across communities and over time. The distinctions and definitions here are descriptive tools, not mandates, and may be adapted, ignored, or replaced without invalidating the framework's internal logic.
 
 ## Status
 
