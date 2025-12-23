@@ -38,7 +38,7 @@ This baseline applies the PLD lens descriptively by:
 - separating discretion from verification at each stage
 - making implicit assumptions visible without prescribing change
 
-The PLD five tests (Impact, Clarity, Alignment, Deliverability, Verification) are referenced later strictly as an observational overlay, not as an evaluative framework.
+The PLD five tests (Impact, Clarity, Alignment, Deliverability, Verification) are referenced strictly as an observational overlay, not as an evaluative framework.
 
 ## Neutrality and Non Prescriptive Stance
 
@@ -58,4 +58,5 @@ Version 0.1 is intentionally limited to descriptive mapping.
 Any future versions that introduce recommendations must:
 - be explicitly labeled as non binding
 - be maintained separately from the baseline
-- not retroactively alter this document’s descriptive claims
+- not retroactively alter this document's descriptive claims
+EOF
