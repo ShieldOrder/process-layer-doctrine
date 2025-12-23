@@ -11,14 +11,14 @@ They exist to make the current ZCG process legible, inspectable, and comparable 
 
 The ZCG application focuses on:
 - Boundary clarity between applicants, reviewers, committee members, and custodians
-- End to end decision flow from proposal intake to fund disbursement
+- End-to-end decision flow from proposal intake to fund disbursement
 - Explicit separation between discretion and verification
 - Identification of process ambiguity and risk surfaces
 
 The application does not evaluate individual people or outcomes.  
 It evaluates interfaces and artifacts.
 
-## Non Authority Statement
+## Non-Authority Statement
 
 These documents:
 - Do not represent ZCG, FPF, or any committee member
@@ -36,7 +36,7 @@ These materials may be used by:
 - Observers analyzing process coherence
 - Future committees comparing continuity across terms
 
-Use is opt in.  
+Use is opt-in.  
 No coordination or permission is required.
 
 ## Document Index
