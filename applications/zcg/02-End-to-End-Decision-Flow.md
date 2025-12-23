@@ -4,9 +4,9 @@
 
 ## Purpose
 
-This section describes, at a high level, how Zcash Community Grants (ZCG) decisions and grant execution typically flow in practice today.
+This section describes, at a high level, how Zcash Community Grants (ZCG) decisions and grant execution typically flow in practice.
 
-The intent is descriptive only.
+The intent is descriptive only.  
 No stage is evaluated, optimized, or judged.
 
 The flow represents a composite derived from documented process, public discussion, and observed practice across multiple grant cycles.
@@ -121,6 +121,7 @@ These characteristics are explored further in subsequent sections.
 
 ## Status
 
-Descriptive baseline.
-No prescriptions.
+Descriptive baseline.  
+No prescriptions.  
 No authority claims.
+EOF
