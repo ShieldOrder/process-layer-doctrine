@@ -12,4 +12,8 @@ Out of scope:
 - custody system design
 - evaluation of individuals or intent
 - claims of institutional authority or endorsement
+
+This scope definition is specific to the ZCG application.
+It inherits the repository-level scope constraints defined at the root.
+
 EOF
