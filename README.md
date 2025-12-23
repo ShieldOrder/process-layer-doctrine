@@ -1,14 +1,14 @@
 # Process Layer Doctrine
 
-Reference home for the Process Layer Doctrine (PLD) and its descriptive applications.
+Reference framework for the Process Layer Doctrine (PLD) and its descriptive applications.
 
 ## Purpose
 
-PLD defines a set of execution hygiene principles for governance and funding systems. It is mechanism neutral, non-prescriptive, and portable across institutions.
+PLD defines a set of execution hygiene invariants for governance and funding systems.  It is mechanism neutral, non-prescriptive, and portable across institutions.
 
 PLD exists to make decision processes legible, verifiable, and durable under personnel and governance turnover.
 
-This framework provides reference definitions and process distinctions as used within PLD. It does not claim consensus, endorsement, or authority beyond its own internal coherence.
+This framework provides reference definitions and process distinctions as used within PLD.  It does not claim consensus, endorsement, or authority beyond its own internal coherence.
 
 ## Core Principles
 
@@ -53,13 +53,14 @@ Institutions, reviewers, and applicants may adopt or reference PLD artifacts wit
 
 ## Scope and Evolution
 
-This framework is intentionally non-authoritative and non-binding. Governance processes are expected to evolve across communities and over time. The distinctions and definitions here are descriptive tools, not mandates, and may be adapted, ignored, or replaced without invalidating the framework's internal logic.
+This framework is intentionally non-authoritative and non-binding.  Governance processes are expected to evolve across communities and over time.  The distinctions and definitions here are descriptive tools, not mandates, and may be adapted, ignored, or replaced without invalidating the framework's internal logic.
+Interpretations of PLD may differ across institutions and observers.  PLD does not provide a dispute resolution mechanism for interpretive disagreement.
 
 ## Status
 
 v0.1
 
-This repository contains a reference formulation of the Process Layer Doctrine and its descriptive applications. No authority, mandates, or prescriptions are asserted.
+This repository contains a reference formulation of the Process Layer Doctrine and its descriptive applications.   No authority, mandates, or prescriptions are asserted.  Minor releases may clarify language or framing without changing core invariants.
 
 ## License
 
