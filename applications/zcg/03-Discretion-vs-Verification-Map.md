@@ -20,7 +20,7 @@ Both are necessary.
 PLD does not seek to eliminate discretion.  
 It seeks to make the boundary between discretion and verification explicit.
 
-## Discretion Dominant Surfaces
+## Discretion-Dominant Surfaces
 
 The following stages rely primarily on human judgment:
 
@@ -37,7 +37,7 @@ At these surfaces:
 
 This discretion is intentional and inherent to the governance model.
 
-## Verification Dominant Surfaces
+## Verification-Dominant Surfaces
 
 The following stages are amenable to verification:
 
@@ -50,7 +50,7 @@ Verification typically relies on:
 - Repositories or published outputs
 - Milestone reports
 - Demonstrable functionality or documentation
-- Third party inspection
+- Third-party inspection
 
 Verification quality varies based on how milestones are specified.
 
@@ -71,7 +71,7 @@ The boundary between the two is often informal.
 ## Implicit Trust Assumptions
 
 Across the process, trust is commonly assumed in areas such as:
-- Accuracy of applicant self reporting
+- Accuracy of applicant self-reporting
 - Good faith execution after funding
 - Completeness of provided updates
 - Alignment between stated and actual scope
