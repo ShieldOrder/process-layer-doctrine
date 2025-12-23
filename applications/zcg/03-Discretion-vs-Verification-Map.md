@@ -16,8 +16,8 @@ Discretion refers to decisions made through human judgment where outcomes cannot
 
 Verification refers to the ability to confirm whether a stated condition or outcome has been met using observable evidence.
 
-Both are necessary.
-PLD does not seek to eliminate discretion.
+Both are necessary.  
+PLD does not seek to eliminate discretion.  
 It seeks to make the boundary between discretion and verification explicit.
 
 ## Discretion Dominant Surfaces
@@ -89,6 +89,7 @@ This document does not prescribe where discretion should be reduced or verificat
 
 ## Status
 
-Descriptive baseline.
-No prescriptions.
+Descriptive baseline.  
+No prescriptions.  
 No authority claims.
+EOF
