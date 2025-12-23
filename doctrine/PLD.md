@@ -1,4 +1,3 @@
-cat > doctrine/PLD.md <<'EOF'
 # Process Layer Doctrine
 
 ## Reference Statement
@@ -100,4 +99,15 @@ Core definitions live only in this document within the context of this framework
 All applications are descriptive mappings derived from these definitions.
 
 If an application conflicts with this framework, the conflict should be made explicit rather than resolved implicitly.
+
+## Interpretation and Disagreement
+
+Applications of PLD represent one possible interpretation of the doctrine.
+
+Different observers or institutions may interpret PLD differently based on context, constraints, or governance norms.
+
+When interpretations conflict, PLD does not provide a resolution mechanism. Institutions and communities retain full discretion to interpret or disregard PLD as they see fit.
+
+Forks and adaptations of PLD are permitted under CC0 but must use distinct names to avoid confusion.
+
 EOF
