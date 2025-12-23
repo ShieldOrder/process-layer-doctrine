@@ -1,4 +1,3 @@
-cat > applications/zcg/01-System-Boundary-and-Roles.md <<'EOF'
 # 01-System-Boundary-and-Roles
 # ZCG Process Legibility Baseline v0.1
 # Derived from the Process Layer Doctrine (PLD)
@@ -7,7 +6,7 @@ cat > applications/zcg/01-System-Boundary-and-Roles.md <<'EOF'
 
 This section describes the primary roles involved in the Zcash Community Grants process and the boundaries between governance, execution, custody, and verification.
 
-The objective is to make responsibility, discretion, and authority surfaces explicit so that process behavior can be understood without relying on informal knowledge.
+The objective is to make responsibility, discretion, and decision surfaces explicit so that process behavior can be understood without relying on informal knowledge.
 
 ## Role Categories
 
@@ -42,10 +41,10 @@ Evaluation artifacts may or may not be standardized depending on the cycle.
 
 ## Governance Mechanism
 
-The governance mechanism defines how authority is exercised.
+The governance mechanism defines how decision-making responsibility is exercised.
 
 In ZCG, this typically includes:
-- Committee based discretion
+- Committee-based discretion
 - Defined voting or approval thresholds
 - Term limits and periodic turnover
 
