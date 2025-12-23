@@ -60,7 +60,7 @@ Interpretations of PLD may differ across institutions and observers.  PLD does n
 
 v0.1
 
-This repository contains a reference formulation of the Process Layer Doctrine and its descriptive applications.   No authority, mandates, or prescriptions are asserted.  Minor releases may clarify language or framing without changing core invariants.
+This repository contains a reference formulation of the Process Layer Doctrine and its descriptive applications.  Minor releases may clarify language or framing without changing core invariants.
 
 ## License
 
