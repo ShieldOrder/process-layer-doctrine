@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Process Layer Doctrine
 
 Reference home for the Process Layer Doctrine (PLD) and its descriptive applications.
