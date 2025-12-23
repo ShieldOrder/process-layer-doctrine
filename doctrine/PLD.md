@@ -14,6 +14,7 @@ This document provides reference definitions and invariants as used within this 
 ## Scope
 
 PLD applies to systems where:
+
 - Funds, authority, or resources are allocated
 - Multiple actors interact across time
 - Decisions must survive institutional turnover
@@ -35,7 +36,7 @@ A decision must be traceable from intake to resolution using observable artifact
 Missing steps are treated as risk, not as discretion.
 
 3. Discretion Is Explicit  
-Human judgment is exercized where verification is impossible or inefficient.  
+Human judgment is allowed only where verification is impossible or inefficient.  
 Discretion must be named, bounded, and owned.
 
 4. Verification Is Preferred  
@@ -51,11 +52,21 @@ Knowledge that only lives in people is considered fragile.
 PLD treats artifacts as first-class objects.
 
 Artifacts include:
-- Proposals
-- Milestone definitions
-- Evaluation memos
+
+- Written proposals and specifications
+- Milestone definitions and acceptance criteria
+- Decision records and evaluation memos
 - Disclosure statements
-- Verification outputs
+- Code repositories, commits, and tagged releases
+- Milestone reports and delivery evidence
+- Verification outputs and reproducible checks
+
+Artifacts do not include:
+
+- Verbal discussions without a written record
+- Private communications unless disclosed as part of the process record
+- Informal understandings or implied agreements
+- Retroactive narratives unsupported by contemporaneous artifacts
 
 Verbal context does not substitute for artifacts.  
 Artifacts may reference discussion, but discussion may not replace artifacts.
@@ -87,11 +98,24 @@ Its function is to reduce ambiguity so that authority can be exercised with clea
 ## Failure Modes Addressed
 
 PLD is designed to surface, not eliminate:
+
 - Ambiguous milestones
 - Role confusion
 - Narrative substitution for evidence
 - Silent scope expansion
 - Process drift over time
+
+## Versioning and Evolution
+
+The current version of PLD is defined in the repository root.
+
+Versioning intent:
+
+- Patch releases may clarify language or framing without changing invariant meaning
+- Any change that alters the meaning of a core invariant requires an explicit version increment and changelog entry
+- Applications may reference the PLD version they were derived from when relevant
+
+Deprecated versions remain accessible for historical analysis.
 
 ## Reference Rule
 
@@ -109,5 +133,3 @@ Different observers or institutions may interpret PLD differently based on conte
 When interpretations conflict, PLD does not provide a resolution mechanism. Institutions and communities retain full discretion to interpret or disregard PLD as they see fit.
 
 Forks and adaptations of PLD are permitted under CC0 but must use distinct names to avoid confusion.
-
-EOF
